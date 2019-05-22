@@ -1,2 +1,2 @@
-# operatingSystem
+# OperatingSystem
 To learn about Operating System
